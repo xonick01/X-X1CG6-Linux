@@ -10,6 +10,7 @@ UI Tweaks
 --------------
 Fingerprint Reader
 --------------
+```
 sudo apt remove fprintd
 sudo add-apt-repository ppa:ubuntuhandbook1/open-fprintd
 sudo apt update 
@@ -18,7 +19,7 @@ sudo systemctl enable open-fprintd-resume open-fprintd-suspend
 systemctl status python3-validity.service
 fprintd-enroll
 sudo pam-auth-update
-
+```
 Edit Resume Service
 
 sudo nano /usr/lib/systemd/system/open-fprintd-resume service
