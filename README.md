@@ -15,8 +15,8 @@
 | MicroSD Card Reader | Generic-SD/MMC CRW USB Device            |Fully|
 | Keyboard & Trackpad | Backlight, TrackPoint and multi-touch touchpad |Fully|
 | Fingerprint         | On chip fingerprint reader               |Fully|
-Files
 --------------
+## Files
 --------------
 UI Tweaks 
 --------------
