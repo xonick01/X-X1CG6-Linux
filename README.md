@@ -4,9 +4,9 @@
 
 | Componenet          | Specifications | Working |
 | ------------------- | -----------------------------------------|---------------|
-| Processor           | Intel Core i5-8250U Processor            |Fully|
-| Memory              | 8GB LPDDR3 2133MHz                       |Fully|
-| Storage             | Samsung NVMe SSD Controller PM981 256GB  |Replaced by **Samsung SM961** then work|
+| Processor           | Intel Core i7-8650U Processor            |Fully|
+| Memory              | 16GB LPDDR3 2133MHz (Soldered)           |Fully|
+| Storage             | 512 M.2 NVMe SSD                         |Fully|
 | Graphics            | Intel UHD Graphics 620                   |Fully with WhateverGreen.kext and properties inject|
 | Display             | 14.0" FHD 1920x1080 LED IPS              |Fully|
 | Audio               | Realtek Audio ALC285 codec               |Fully with AppleALC.kext and layout-id 11|
