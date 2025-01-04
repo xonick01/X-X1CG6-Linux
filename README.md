@@ -1,6 +1,6 @@
 # Ubuntu 24.10 on Thinkpad X1 Carbon Gen6
 --------------
-##Machine Specs
+## Machine Specs
 
 | Componenet          | Specifications | Working |
 | ------------------- | -----------------------------------------|---------------|
