@@ -19,6 +19,11 @@
 ## Files
 --------------
 UI Tweaks 
+- Relocate and Adjut Dock
+- Set Dark Mode
+- Add Gnome Tweaks
+- Add Wi
+--------------
 --------------
 1 - Install 
 --------------
